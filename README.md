@@ -26,3 +26,16 @@ I researched, wrote, and delivered all of the following lessons. They are organi
 
 ### Node.js / Express
 - <a href="https://github.com/Matt-Eva/simple-express-backend-demo">Building an Express Proxy Server</a>
+
+### CSS
+- <a href="https://github.com/Matt-Eva/intro-css-demo">Intro to CSS</a>
+- <a href="https://github.com/richwblake/CSS_Grid_And_Flexbox_Demo">CSS Grid and Flexbox</a>
+- <a href="https://github.com/Matt-Eva/media-query-demo">CSS Media Queries</a>
+
+### React
+- <a href="https://github.com/Matt-Eva/react-css-and-file-structure">React CSS and File Structure</a>
+- <a href="https://github.com/Matt-Eva/material-ui-demo">Material UI Demo</a>
+- <a href="https://github.com/Matt-Eva/intro-to-recoil-demo">Recoil Demo</a>
+
+### Data Structures
+- <a href="https://github.com/Matt-Eva/intro-to-hash-tables">Hash Tables </a>
